@@ -1,0 +1,2 @@
+# QueraExcecises
+Solved quera questions
