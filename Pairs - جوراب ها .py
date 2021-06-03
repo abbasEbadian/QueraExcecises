@@ -1,7 +1,6 @@
 from itertools import chain
 n = int(input())
 numbers = list(enumerate(map(int, input().split())))
-numbers.sort(key=lambda x:x[1])
 pairs = []
 for i in range(len(numbers)-1) :
     current = numbers[i]
